@@ -69,29 +69,11 @@ title('Phase Spectrum');
 xlabel('Frequency Index k');
 ylabel('∠X(k)');
 
-
-
-
-
-
-
-
-
 ## OUTPUT
 
- 
-
-
-
-
-
-
-
-
-
-
+ <img width="855" height="461" alt="image" src="https://github.com/user-attachments/assets/ef6d6549-f4e8-4d92-bd8d-633346bc582c" />
 
 ## RESULT:
 Thus,  Radix-2 Decimation-in-Frequency  (DIF) FFT algorithm was implemented using MATLAB.
-.
+
  
